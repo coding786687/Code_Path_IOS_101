@@ -17,20 +17,16 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/ZbGdjmF' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with OBS, Imgur
 
 ## App Brainstorming (Step 4)
 
 ## Notes
 
-Not much, xcode is way nicer than android studio. It was a bigger problem to get a gif of the thing on mac. 
+Xcode is way nicer than android studio. It was a bigger problem to get a gif of the thing on mac. 
 
 ## License
 
