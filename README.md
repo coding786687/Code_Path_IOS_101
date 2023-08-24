@@ -28,6 +28,10 @@ GIF created with OBS, Imgur
 ## Notes
 
 Xcode is way nicer than android studio. It was a bigger problem to get a gif of the thing on mac. 
+Favorite apps -> Calculator, camera, youtube.
+Useful features -> Calculator: useful/easy to use , Camera: very useful/fun to experiment , YouTube: entertaining/interactive
+
+I want to build an app for myself to be able to save many different file formats and host them on my own local machine. I need a UI to access and pull data from my own server. I need scripts to automate and show me status of things downloaded etc. I want to make my own heads up display with my own server saving content from all differenct file types. It should be able to hold videos, documents, pictures etc. Then maybe I can connect it to a web browser and give accounts to my family to give them all the same features and all of us have a shared space to interact and share documents and videos etc....
 
 ## License
 
