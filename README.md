@@ -4,7 +4,7 @@ Submitted by: **Ahmed Demha**
 
 **code_path_app1** is an app that... changes color of screen based on button click randomly. 
 
-Time spent: **1** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
